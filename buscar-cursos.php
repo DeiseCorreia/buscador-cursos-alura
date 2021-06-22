@@ -1,13 +1,9 @@
 <?php
-/* Informa o nível dos erros que serão exibidos */
-error_reporting(E_ALL);
-
-/* Habilita a exibição de erros */
-ini_set("display_errors", 1);
 
 require 'vendor/autoload.php';
-require 'src/Buscador.php';
 
+//require 'src/Buscador.php';
+//<namespace>->mapeamento de src-><classe que o Namespace esta carregando>
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
@@ -18,7 +14,8 @@ $crawler = new Crawler();
 $buscador = new Buscador($client, $crawler);
 
 $cursos = $buscador->buscar('/cursos-online-programacao/php');
-var_dump($cursos);
-foreach ($cursos as $curso) {//php api
-    echo $curso . PHP_EOL;
+echo "<pre>";
+
+foreach ($cursos as $curso) {//arrays de strings para carregar o array
+    echo exibeMensagem($curso);//conteudo da pagina
 }
