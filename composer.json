@@ -32,7 +32,6 @@
         
     },
     "require-dev": {
-<<<<<<< HEAD
         "phpunit/phpunit": "^9.5",
         "phan/phan": "^4.0"
     },
@@ -53,8 +52,4 @@
         "check": "Roda as verificações do código. PHAN, PHPCS E PHPUNIT"
     }
 
-=======
-        "phpunit/phpunit": "^9.5"
-    }
->>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
 }
