@@ -37,6 +37,7 @@ private static $installed = array (
   ),
   'versions' => 
   array (
+<<<<<<< HEAD
     'composer/semver' => 
     array (
       'pretty_version' => '3.2.5',
@@ -55,6 +56,8 @@ private static $installed = array (
       ),
       'reference' => '964adcdd3a28bf9ed5d9ac6450064e0d71ed7496',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'deisecorreia/buscador-cursos' => 
     array (
       'pretty_version' => 'dev-main',
@@ -73,6 +76,7 @@ private static $installed = array (
       ),
       'reference' => 'd56bf6102915de5702778fe20f2de3b2fe570b5b',
     ),
+<<<<<<< HEAD
     'felixfbecker/advanced-json-rpc' => 
     array (
       'pretty_version' => 'v3.2.1',
@@ -82,6 +86,8 @@ private static $installed = array (
       ),
       'reference' => 'b5f37dbff9a8ad360ca341f3240dc1c168b45447',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'guzzlehttp/guzzle' => 
     array (
       'pretty_version' => '7.3.0',
@@ -109,6 +115,7 @@ private static $installed = array (
       ),
       'reference' => 'dc960a912984efb74d0a90222870c72c87f10c91',
     ),
+<<<<<<< HEAD
     'microsoft/tolerant-php-parser' => 
     array (
       'pretty_version' => 'v0.0.23',
@@ -118,6 +125,8 @@ private static $installed = array (
       ),
       'reference' => '1d76657e3271754515ace52501d3e427eca42ad0',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'myclabs/deep-copy' => 
     array (
       'pretty_version' => '1.10.2',
@@ -131,6 +140,7 @@ private static $installed = array (
         0 => '1.10.2',
       ),
     ),
+<<<<<<< HEAD
     'netresearch/jsonmapper' => 
     array (
       'pretty_version' => 'v3.1.1',
@@ -140,6 +150,8 @@ private static $installed = array (
       ),
       'reference' => 'ba09f0e456d4f00cef84e012da5715625594407c',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'nikic/php-parser' => 
     array (
       'pretty_version' => 'v4.10.5',
@@ -149,6 +161,7 @@ private static $installed = array (
       ),
       'reference' => '4432ba399e47c66624bc73c8c0f811e5c109576f',
     ),
+<<<<<<< HEAD
     'phan/phan' => 
     array (
       'pretty_version' => '4.0.6',
@@ -158,6 +171,8 @@ private static $installed = array (
       ),
       'reference' => '4caaa97195dcea549021cb773a5dc30bb46d1fab',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'phar-io/manifest' => 
     array (
       'pretty_version' => '2.0.1',
@@ -266,6 +281,7 @@ private static $installed = array (
       ),
       'reference' => '89ff45ea9d70e35522fb6654a2ebc221158de276',
     ),
+<<<<<<< HEAD
     'psr/container' => 
     array (
       'pretty_version' => '1.1.1',
@@ -275,6 +291,8 @@ private static $installed = array (
       ),
       'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'psr/http-client' => 
     array (
       'pretty_version' => '1.0.1',
@@ -307,6 +325,7 @@ private static $installed = array (
         0 => '1.0',
       ),
     ),
+<<<<<<< HEAD
     'psr/log' => 
     array (
       'pretty_version' => '1.1.4',
@@ -323,6 +342,8 @@ private static $installed = array (
         0 => '1.0',
       ),
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'ralouphie/getallheaders' => 
     array (
       'pretty_version' => '3.0.3',
@@ -332,6 +353,7 @@ private static $installed = array (
       ),
       'reference' => '120b605dfeb996808c31b6477290a714d356e822',
     ),
+<<<<<<< HEAD
     'sabre/event' => 
     array (
       'pretty_version' => '5.1.2',
@@ -341,6 +363,8 @@ private static $installed = array (
       ),
       'reference' => 'c120bec57c17b6251a496efc82b732418b49d50a',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'sebastian/cli-parser' => 
     array (
       'pretty_version' => '1.0.1',
@@ -485,6 +509,7 @@ private static $installed = array (
       ),
       'reference' => 'c6c1022351a901512170118436c764e473f6de8c',
     ),
+<<<<<<< HEAD
     'squizlabs/php_codesniffer' => 
     array (
       'pretty_version' => '3.6.0',
@@ -503,6 +528,8 @@ private static $installed = array (
       ),
       'reference' => '649730483885ff2ca99ca0560ef0e5f6b03f2ac1',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'symfony/css-selector' => 
     array (
       'pretty_version' => 'v5.3.0',
@@ -512,6 +539,7 @@ private static $installed = array (
       ),
       'reference' => 'fcd0b29a7a0b1bb5bfbedc6231583d77fea04814',
     ),
+<<<<<<< HEAD
     'symfony/deprecation-contracts' => 
     array (
       'pretty_version' => 'v2.4.0',
@@ -521,6 +549,8 @@ private static $installed = array (
       ),
       'reference' => '5f38c8804a9e97d23e0c8d63341088cd8a22d627',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'symfony/dom-crawler' => 
     array (
       'pretty_version' => 'v4.4.25',
@@ -539,6 +569,7 @@ private static $installed = array (
       ),
       'reference' => '46cd95797e9df938fdd2b03693b5fca5e64b01ce',
     ),
+<<<<<<< HEAD
     'symfony/polyfill-intl-grapheme' => 
     array (
       'pretty_version' => 'v1.23.0',
@@ -557,6 +588,8 @@ private static $installed = array (
       ),
       'reference' => '8590a5f561694770bdcd3f9b5c69dde6945028e8',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'symfony/polyfill-mbstring' => 
     array (
       'pretty_version' => 'v1.23.0',
@@ -566,6 +599,7 @@ private static $installed = array (
       ),
       'reference' => '2df51500adbaebdc4c38dea4c89a2e131c45c8a1',
     ),
+<<<<<<< HEAD
     'symfony/polyfill-php73' => 
     array (
       'pretty_version' => 'v1.23.0',
@@ -602,6 +636,8 @@ private static $installed = array (
       ),
       'reference' => '0732e97e41c0a590f77e231afc16a327375d50b0',
     ),
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     'theseer/tokenizer' => 
     array (
       'pretty_version' => '1.2.0',

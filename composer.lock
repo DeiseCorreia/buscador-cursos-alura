@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "54e173ca3618f1c87365ca667ee3df52",
+=======
+    "content-hash": "69006350b1ea948f2148c3c6f17102cf",
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -744,6 +748,7 @@
     ],
     "packages-dev": [
         {
+<<<<<<< HEAD
             "name": "composer/semver",
             "version": "3.2.5",
             "source": {
@@ -889,6 +894,8 @@
             "time": "2021-05-05T19:37:51+00:00"
         },
         {
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
             "name": "doctrine/instantiator",
             "version": "1.4.0",
             "source": {
@@ -958,6 +965,7 @@
             "time": "2020-11-10T18:47:58+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "felixfbecker/advanced-json-rpc",
             "version": "v3.2.1",
             "source": {
@@ -1048,6 +1056,8 @@
             "time": "2020-09-13T17:29:12+00:00"
         },
         {
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
             "name": "myclabs/deep-copy",
             "version": "1.10.2",
             "source": {
@@ -1106,6 +1116,7 @@
             "time": "2020-11-13T09:40:50+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "netresearch/jsonmapper",
             "version": "v3.1.1",
             "source": {
@@ -1157,6 +1168,8 @@
             "time": "2020-11-02T19:19:54+00:00"
         },
         {
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
             "name": "nikic/php-parser",
             "version": "v4.10.5",
             "source": {
@@ -1213,6 +1226,7 @@
             "time": "2021-05-03T19:11:20+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "phan/phan",
             "version": "4.0.6",
             "source": {
@@ -1290,6 +1304,8 @@
             "time": "2021-05-19T23:27:16+00:00"
         },
         {
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
             "name": "phar-io/manifest",
             "version": "2.0.1",
             "source": {
@@ -2047,6 +2063,7 @@
             "time": "2021-06-05T04:49:07+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "psr/container",
             "version": "1.1.1",
             "source": {
@@ -2265,6 +2282,62 @@
                 }
             ],
             "time": "2020-09-28T06:08:49+00:00"
+=======
+            "name": "sebastian/cli-parser",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/cli-parser.git",
+                "reference": "442e7c7e687e42adc03470c7b668bc4b2402c0b2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/cli-parser/zipball/442e7c7e687e42adc03470c7b668bc4b2402c0b2",
+                "reference": "442e7c7e687e42adc03470c7b668bc4b2402c0b2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastian Bergmann",
+                    "email": "sebastian@phpunit.de",
+                    "role": "lead"
+                }
+            ],
+            "description": "Library for parsing CLI options",
+            "homepage": "https://github.com/sebastianbergmann/cli-parser",
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/cli-parser/issues",
+                "source": "https://github.com/sebastianbergmann/cli-parser/tree/1.0.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/sebastianbergmann",
+                    "type": "github"
+                }
+            ],
+            "time": "2020-09-28T06:08:49+00:00"
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
         },
         {
             "name": "sebastian/code-unit",
@@ -3063,6 +3136,10 @@
                     "type": "github"
                 }
             ],
+<<<<<<< HEAD
+=======
+            "abandoned": true,
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
             "time": "2020-09-28T06:45:17+00:00"
         },
         {
@@ -3175,6 +3252,7 @@
             "time": "2020-09-28T06:39:44+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "symfony/console",
             "version": "v5.3.2",
             "source": {
@@ -3829,6 +3907,8 @@
             "time": "2021-06-06T09:51:56+00:00"
         },
         {
+=======
+>>>>>>> 74c6ee5a7ea98b440327e4805c7dc33c20155727
             "name": "theseer/tokenizer",
             "version": "1.2.0",
             "source": {
