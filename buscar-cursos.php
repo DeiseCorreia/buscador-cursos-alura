@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 require 'vendor/autoload.php';
@@ -17,5 +18,5 @@ $cursos = $buscador->buscar('/cursos-online-programacao/php');
 echo "<pre>";
 
 foreach ($cursos as $curso) {//arrays de strings para carregar o array
-    echo exibeMensagem($curso);//conteudo da pagina
+     exibeMensagem($curso);//conteudo da pagina
 }
